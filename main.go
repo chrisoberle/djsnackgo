@@ -12,5 +12,5 @@ func main() {
 	e.Static("/css", "assets/css")
 	e.File("/", "templates/index.html")
 
-	e.Logger.Fatal(e.Start(":8080"))
+	e.Logger.Fatal(e.Start(":80"))
 }

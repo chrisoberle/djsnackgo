@@ -18,3 +18,4 @@ workspace.code-workspace
 files.zip
 log
 .DS_Store
+assets/.DS_Store
