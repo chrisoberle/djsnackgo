@@ -49,6 +49,11 @@
 	background: linear-gradient(to right, rgba(51,122,183,1) 0%, rgba(51,122,183,1) 51%, rgba(255,255,255,1) 69%) !important;
 }
 
+.gradient-heading-background {
+	background: rgb(51,122,183) !important;
+	background: linear-gradient(to right, rgba(51,122,183,1) 0%, rgba(51,122,183,1) 56%, rgba(255,255,255,1) 74%) !important;
+}
+
 .genre-margin {
 	margin-bottom: 10px;
 }
